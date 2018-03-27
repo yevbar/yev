@@ -1,0 +1,15 @@
+{
+  "name": "yev",
+  "version": "1.0.1",
+  "description": "My personal npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello World!\");"
+  },
+  "keywords": [
+    "yev"
+  ],
+  "repository": "https://github.com/yevbar/yev",
+  "author": "Yev",
+  "license": "ISC"
+}
