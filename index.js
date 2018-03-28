@@ -1,1 +1,3 @@
-console.log("This is my first npm package!");
+function yev() {
+	console.log("This is my first npm package!");
+}
